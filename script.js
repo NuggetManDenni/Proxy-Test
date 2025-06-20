@@ -3,7 +3,7 @@ $(document).ready(function() {
         e.preventDefault();
         let url = $('#url').val();
         if (url) {
-            window.open('https://https://gointospace.app/' + url, '_blank');
+            window.open('https://www.unrestrictor.net/' + url, '_blank');
         } else {
             alert('Please enter a valid URL.');
         }
